@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15013069516",
+    "project_id": "vehicle-emission-project",
+    "storage_bucket": "vehicle-emission-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15013069516:android:7babc2d16d94bd69f07869",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_emission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxaPFihXFtO-JKghqLkde5aPBCuMvBM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
